@@ -1,4 +1,4 @@
-# ZenGrub - ASUS Inspired GRUB Theme
+# ZenGrub
 
 A high-quality bootloader theme for GRUB2, inspired by the ASUS Zenbook aesthetic and based on the "spinner" theme.
 
