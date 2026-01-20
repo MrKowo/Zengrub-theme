@@ -1,7 +1,3 @@
-This is a clean, professional `README.md` designed for your **ZenGrub** theme. It focuses on the ASUS aesthetic, the loading spinner, and provides clear instructions for users on different monitor resolutions (like your HiDPI laptop screen).
-
----
-
 # ZenGrub - ASUS Inspired GRUB Theme
 
 A high-quality bootloader theme for GRUB2, inspired by the ASUS Zenbook aesthetic and based on the "spinner" theme.
