@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="assets/preview.png" alt="ZenGrub Preview" width=10%>
-</p>
-
 # ZenGrub
-A high-quality bootloader theme for GRUB2, inspired by the ASUS Zenbook aesthetic and based on the "spinner" theme.
+A bootloader theme for GRUB2 inspired by the ASUS Zenbook aesthetic. If you also use Plymouth, check out my [ZenMuth theme](https://github.com/MrKowo/Zenmuth-theme).
 
 <p align="center">
   <img src="assets/boot.png" alt="ZenGrub Preview" width=100%>
@@ -69,3 +65,7 @@ sudo update-grub
 ---
 
 **Disclaimer:** *Always keep a live USB handy when editing GRUB configurations. This theme is not affiliated with ASUS.*
+
+<p align="center">
+  <img src="assets/preview.png" alt="ZenGrub Preview" width=10%>
+</p>
