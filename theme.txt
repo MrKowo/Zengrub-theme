@@ -18,7 +18,7 @@ terminal-border: "0"
 + image {
 	left = 50%-128
 	top = 40%-128
-    file = "asuslogo.png"
+    file = "asus256w.png"
 }
 
 # Show the boot menu
@@ -27,7 +27,7 @@ terminal-border: "0"
   top = 60%
   width = 600
   height = 30%
-  item_font = "JetBrainsMono24"
+  item_font = "JetBrainsMono NF Regular 24"
   item_color = "#444444"
   selected_item_color = "#FFFFFF"
   icon_width = 32
