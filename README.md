@@ -68,4 +68,4 @@ sudo update-grub
 
 ---
 
-**Disclaimer:** *Always keep a live USB handy when editing GRUB configurations. This theme is a community project and is not affiliated with ASUS.*
+**Disclaimer:** *Always keep a live USB handy when editing GRUB configurations. This theme is not affiliated with ASUS.*
