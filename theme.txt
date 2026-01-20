@@ -1,6 +1,3 @@
-# GRUB2 gfxmenu pop theme, based and inspired by Vimix and Dracula grub themes
-# Designed for any resolution
-
 # Global Property
 title-text: ""
 # desktop-image: "background.png"
