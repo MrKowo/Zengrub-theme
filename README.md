@@ -1,9 +1,8 @@
-# ZenGrub
-
 <p align="center">
-  <img src="assets/preview.png" alt="ZenGrub Preview" width=30%>
+  <img src="assets/preview.png" alt="ZenGrub Preview" width=10%>
 </p>
 
+# ZenGrub
 A high-quality bootloader theme for GRUB2, inspired by the ASUS Zenbook aesthetic and based on the "spinner" theme.
 
 ## 🚀 Installation
