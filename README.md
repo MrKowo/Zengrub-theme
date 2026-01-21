@@ -29,6 +29,8 @@ sudo cp -r * /boot/grub2/themes/zengrub/
 
 The theme comes with multiple icon sizes for different screen DPIs. Try them out my changing this line in the theme.txt
 
+#### Custom icon size
+
 ```bash
 # Logo image
 + image {
