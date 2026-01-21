@@ -27,6 +27,14 @@ sudo cp -r * /boot/grub2/themes/zengrub/
 
 *(Note: On some distributions, the path is `/boot/grub/themes/`)*
 
+The theme comes with multiple icon sizes for different screen DPIs. Try them out my changing this line in the theme.txt
+
+```bash
+ICON="asus[###]w.png"
+```
+with `128`, `256` or `512`.
+
+
 ### 3. Edit GRUB configuration
 
 Open your GRUB configuration file:
