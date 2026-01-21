@@ -30,7 +30,12 @@ sudo cp -r * /boot/grub2/themes/zengrub/
 The theme comes with multiple icon sizes for different screen DPIs. Try them out my changing this line in the theme.txt
 
 ```bash
-ICON="asus[###]w.png"
+# Logo image
++ image {
+	left = 50%-128    # to find the center subtract half the resolution of the image
+	top = 40%-128     # to find the center subtract half the resolution of the image
+    file = "asus[###]w.png"
+}
 ```
 with `128`, `256` or `512`.
 
